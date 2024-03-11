@@ -1,3 +1,4 @@
+![logo](https://github.com/yogesh006/yogesh006/blob/main/1691131382782.jpg)
 <h1 align="center">Hi 👋, I'm Yogesh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
